@@ -1,5 +1,6 @@
 2020/02/02
 使用Kmeans cluster機器學習，分析新冠肺炎和鄰里、人文、交通建設之間的關聯，並決定:哪一個鄰里(Neighborhoods)需要封城
+
 好讀版Mideum文章
 https://medium.com/@a626854993/covid-19-confirmed-cases-neighborhoods-data-analysis-of-toronto-by-using-k-means-clustering-in-c17dd8931f12
 
